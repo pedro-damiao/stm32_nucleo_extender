@@ -1,0 +1,25 @@
+# KiCad local settings and caches
+*.kicad_prl
+fp-info-cache
+
+# KiCad autosave and lock files
+*-autosave.kicad_sch
+*-autosave.kicad_pcb
+*.lck
+
+# KiCad backup archives
+*-backups/
+
+# Manufacturing and export outputs
+*.gbr
+*.gerber
+*.drl
+*.d356
+*.pos
+*.csv
+*.step
+*.stp
+*.wrl
+*.net
+*.xml
+*.rpt
