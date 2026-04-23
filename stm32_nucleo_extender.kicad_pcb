@@ -771,6 +771,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/components/6-534206-9/6-534206-9.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "TBL009-254-20GY-2GY:TBL00925420GY2GY"
 		(layer "F.Cu")
@@ -1478,6 +1489,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/components/LIB_TBL009-254-20GY-2GY/TBL009-254-20GY-2GY.stp"
+			(offset
+				(xyz -3.25 6.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "TBL009-254-20GY-2GY:TBL00925420GY2GY"
 		(layer "F.Cu")
@@ -1497,7 +1519,7 @@
 			)
 		)
 		(property "Value" "TBL009-254-20GY-2GY"
-			(at 22.95 1.47 270)
+			(at 22.95 1.47 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e508954e-b8dd-4da5-8c64-c1a07f66c89c")
@@ -1509,7 +1531,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/supplyframepdf/tbl009-254.pdf"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee3c2016-381c-43fd-b6b4-7194b70ab593")
@@ -1521,7 +1543,7 @@
 			)
 		)
 		(property "Description" "2~24 Poles, Screwless, Horizontal, 2.54 Pitch, 26~18 (AWG), Terminal Block Connector"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a91ac53e-2299-465b-a241-21efa35dd474")
@@ -1723,7 +1745,7 @@
 			(uuid "61f8f35a-7624-4008-bc7a-2af2175d3cd1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 22.95 1.47 270)
+			(at 22.95 1.47 90)
 			(layer "F.Fab")
 			(uuid "85fa5d58-40f0-4019-a3ed-ea9550120d55")
 			(effects
@@ -2183,6 +2205,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/components/LIB_TBL009-254-20GY-2GY/TBL009-254-20GY-2GY.stp"
+			(offset
+				(xyz -3.25 6.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2860,6 +2893,17 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/pedro/OneDrive/Ambiente de Trabalho/WorkingDirectory/Kicad/components/pin_header_socket/LIB_6-534206-9/6-534206-9/3D/6-534206-9.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/components/6-534206-9/6-534206-9.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3577,6 +3621,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/components/LIB_TBL009-254-20GY-2GY/TBL009-254-20GY-2GY.stp"
+			(offset
+				(xyz -3.25 6.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "TBL009-254-20GY-2GY:TBL00925420GY2GY"
 		(layer "F.Cu")
@@ -3596,7 +3651,7 @@
 			)
 		)
 		(property "Value" "TBL009-254-20GY-2GY"
-			(at 22.95 1.47 270)
+			(at 22.95 1.47 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8cfd07c5-65e9-494d-bd87-2789f74d11d3")
@@ -3608,7 +3663,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/supplyframepdf/tbl009-254.pdf"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1ae184f-af31-45b6-a47d-2902f8d8497b")
@@ -3620,7 +3675,7 @@
 			)
 		)
 		(property "Description" "2~24 Poles, Screwless, Horizontal, 2.54 Pitch, 26~18 (AWG), Terminal Block Connector"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "06e17a60-c486-4b59-a3ac-3c85b7025df7")
@@ -3822,7 +3877,7 @@
 			(uuid "5a43a9b5-983d-4992-91d3-f6156ebd3f6a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 22.95 1.47 270)
+			(at 22.95 1.47 90)
 			(layer "F.Fab")
 			(uuid "27fdc1e0-efe2-4ab0-83c7-e64521c2aa85")
 			(effects
@@ -4282,6 +4337,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/components/LIB_TBL009-254-20GY-2GY/TBL009-254-20GY-2GY.stp"
+			(offset
+				(xyz -3.25 6.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
