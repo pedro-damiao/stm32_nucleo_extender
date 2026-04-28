@@ -13,7 +13,6 @@ fp-info-cache
 # Manufacturing and export outputs
 *.gbr
 *.gerber
-*.drl
 *.d356
 *.pos
 *.csv
